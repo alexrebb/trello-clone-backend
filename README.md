@@ -4,4 +4,4 @@ Database installation instruction
 2. Create a cluster
 3. Create a database
 4. Create a collection
-5. Get a welcome key to connect, fill in the login and password inside the key
+5. Add your connection string from Mongo/Database Deployments/Connect into db/connect.js - connectionString
